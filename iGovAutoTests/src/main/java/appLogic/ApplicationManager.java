@@ -76,7 +76,7 @@ public void stop() {
 
 
 	public void mainPage() {
- driver.get("https://test.igov.org.ua/");	
+ driver.get("https://test-version.igov.org.ua/");	
 	}
 
 	 public void signOut() {
